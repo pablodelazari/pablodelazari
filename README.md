@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNyMHkwdDIydTRqM2NiaXF5bnR6N2Z0N2RjdTRyZDI2aml3bWJvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="GIF Animado" />
+  <img height="200" src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="GIF Animado" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 <h1 align="left">🐍 Snake Animation</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pablodelazari/pablodelazari/output/snake.svg" alt="Snake animation" />
+  <img src="https://pablodelazari.github.io/pablodelazari/snake.svg" alt="Snake animation" />
 </div>
 
 ---
