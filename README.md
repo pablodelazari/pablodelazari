@@ -12,9 +12,16 @@
 
 <div align="center">
   
-| � **Mission Status** | � **Signal Intelligence** |
-| :--- | :--- |
-| <br> **root@kali:~$ ./status.sh** <br> > 🎯 **Objective**: Secure the digital frontier. <br> > 🛠️ **Current Op**: `Advanced Malware Analysis` <br> > 📚 **Knowledge Base**: `Cloud Security (AWS)` <br> > 🔑 **PGP Key**: `*******` <br><br> **root@kali:~$ ./socials --connect** <br> <a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/pablodelazari/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:pablodelazari@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Packet-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img src="https://github-readme-stats.vercel.app/api?username=pablodelazari&show_icons=true&theme=radical&hide_border=true" height="170" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelazari&layout=compact&theme=radical&hide_border=true" height="170" /> |
+<h2 align="center">💀 Mission Status</h2>
+<br>
+**root@kali:~$ ./status.sh** <br>
+> 🎯 **Objective**: Secure the digital frontier. <br>
+> 🛠️ **Current Op**: `Advanced Malware Analysis` <br>
+> 📚 **Knowledge Base**: `Cloud Security (AWS)` <br>
+> 🔑 **PGP Key**: `*******` <br><br>
+
+**root@kali:~$ ./socials --connect** <br>
+<a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/pablodelazari/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:pablodelazari@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Packet-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
