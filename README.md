@@ -12,7 +12,7 @@
 
 <div align="center">
   <!-- Trophies with no-background for seamless dark mode integration -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pablodelazari&theme=matrix&no-frame=true&margin-w=4&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pablodelazari&theme=onedark&no-frame=true&margin-w=4" alt="trophies" />
 </div>
 
 <br />
@@ -21,7 +21,7 @@
   
 | 🖥️ **Terminal** | 📊 **Intelligence** |
 | :--- | :--- |
-| <br> **$ whoami** <br> > Cybersecurity Specialist driven by curiosity and code. I bridge the gap between offensive techniques and defensive strategies. <br><br> **$ cat current_status.txt** <br> > 🔭 Working on: **Advanced Malware Analysis** <br> > 🌱 Learning: **Cloud Security (AWS/Azure)** <br> > ⚡ Fun fact: **"I break things to fix them."** <br><br> **$ connect** <br> <a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/pablodelazari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a> <a href="mailto:pablodelazari@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a> | <img src="https://github-readme-stats.vercel.app/api?username=pablodelazari&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" height="160" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelazari&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="160" /> |
+| <br> **$ whoami** <br> > Cybersecurity Specialist driven by curiosity and code. I bridge the gap between offensive techniques and defensive strategies. <br><br> **$ cat current_status.txt** <br> > 🔭 Working on: **Advanced Malware Analysis** <br> > 🌱 Learning: **Cloud Security (AWS/Azure)** <br> > ⚡ Fun fact: **"I break things to fix them."** <br><br> **$ connect** <br> <a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/pablodelazari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a> <a href="mailto:pablodelazari@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a> | <img src="https://github-readme-stats.vercel.app/api?username=pablodelazari&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelazari&layout=compact&theme=dark&hide_border=true" height="160" /> |
 
 </div>
 
@@ -72,9 +72,8 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pablodelazari/pablodelazari/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
-</div>
+  <!-- A animação da cobra está sendo gerada. Link será ativado em breve. -->
+  <!-- <img src="https://raw.githubusercontent.com/pablodelazari/pablodelazari/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" /> -->
 
 <div align="center">
   <br />
