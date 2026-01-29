@@ -9,9 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pablodelazari&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=pablodelazari&theme=radical&no-frame=true&margin-w=4" alt="trophies" />
 </div>
 
 <br />
@@ -20,7 +18,7 @@
 
 | **Sobre Mim** | **Estatísticas** |
 | :--- | :--- |
-| <br> 🛡️ **Focado em Cibersegurança** <br> Atuo com análise de vulnerabilidades, Security Engineering e desenvolvimento de ferramentas de automação em Python. <br><br> 🌱 **Atualmente estudando:** <br> - Cloud Security (AWS/Azure) <br> - Advanced Malware Analysis <br> - DevSecOps Pipelines <br><br> 💬 **Vamos Conectar?** <br> <a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> <a href="https://www.instagram.com/pablodelazari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <br> <a href="mailto:pablodelazari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img src="https://github-readme-stats.vercel.app/api?username=pablodelazari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="150" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" /> |
+| <br> 🛡️ **Focado em Cibersegurança** <br> Atuo com análise de vulnerabilidades, Security Engineering e desenvolvimento de ferramentas de automação em Python. <br><br> 🌱 **Atualmente estudando:** <br> - Cloud Security (AWS/Azure) <br> - Advanced Malware Analysis <br> - DevSecOps Pipelines <br><br> 💬 **Vamos Conectar?** <br> <a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> <a href="https://www.instagram.com/pablodelazari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <br> <a href="mailto:pablodelazari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img src="https://github-readme-stats.vercel.app/api?username=pablodelazari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelazari&layout=compact&theme=tokyonight&hide_border=true" height="150" /> |
 
 </div>
 
@@ -34,10 +32,11 @@
 <br />
 
 <div align="center">
+  <!-- A animação da cobra aparecerá aqui depois que o GitHub Actions rodar (pode levar até 24h) -->
   <img src="https://raw.githubusercontent.com/pablodelazari/pablodelazari/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://profile-counter.glitch.me/pablodelazari/count.svg?" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=pablodelazari&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </div>
