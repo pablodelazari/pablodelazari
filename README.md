@@ -59,11 +59,6 @@
 <br />
 
 <div align="center">
-  <!-- Status: Pending Deployment -->
-  <img src="https://raw.githubusercontent.com/pablodelazari/pablodelazari/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation - Loading..." />
-</div>
-
-<div align="center">
   <br />
   <img src="https://komarev.com/ghpvc/?username=pablodelazari&style=for-the-badge&color=00f2ea&label=SYSTEM+VISITORS" alt="Visitor Count" />
 </div>
