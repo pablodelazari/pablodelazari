@@ -1,52 +1,40 @@
 <div align="center">
-  <br />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Pablo;Cybersecurity+Specialist;Python+%26+Automation;Bem-vindo+ao+meu+c%C3%B3digo!" alt="Typing SVG" />
-  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Pablo%20Lazari&fontSize=90&fontAlignY=35&desc=Cybersecurity%20Specialist&descAlignY=55&descSize=30&animation=fadeIn&fontColor=ffffff" width="100%" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablodelazari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelazari&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,js,docker,git,linux,vscode" />
-  <br>
-</div>
-
----
-
-### 🚀 Sobre Mim
-
-Sou um entusiasta de Tecnologia e Segurança da Informação, sempre buscando transformar problemas complexos em soluções eficientes e seguras.
-
-- 🛡️ **Foco:** Cibersegurança, Análise de Vulnerabilidades e DevSecOps.
-- 🐍 **Automação:** Especialista em criar bots e scripts em Python para otimizar rotinas.
-- 🎓 **Aprendizado:** Constantemente evoluindo em Cloud Computing e Machine Learning.
-
----
-
-### 🌐 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/pablodelazari/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Pentesting+%7C+AppSec+%7C+Automation;Python+Developer;Transforming+Coffee+into+Exploits" alt="Typing SVG" />
   </a>
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pablodelazari&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  </a>
+</div>
 
-### 🐍 Contribuições
+<br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pablodelazari/pablodelazari/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+| **Sobre Mim** | **Estatísticas** |
+| :--- | :--- |
+| <br> 🛡️ **Focado em Cibersegurança** <br> Atuo com análise de vulnerabilidades, Security Engineering e desenvolvimento de ferramentas de automação em Python. <br><br> 🌱 **Atualmente estudando:** <br> - Cloud Security (AWS/Azure) <br> - Advanced Malware Analysis <br> - DevSecOps Pipelines <br><br> 💬 **Vamos Conectar?** <br> <a href="https://www.linkedin.com/in/pablo-de-lazari-ciberseguranca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br> <a href="https://www.instagram.com/pablodelazari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <br> <a href="mailto:pablodelazari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <img src="https://github-readme-stats.vercel.app/api?username=pablodelazari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="150" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelazari&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" /> |
+
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🛠️ Arsenal Técnico</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,docker,git,github,vscode,aws,azure,kalilinux,wireshark&theme=dark" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pablodelazari/pablodelazari/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
 
 <div align="center">
