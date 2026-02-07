@@ -50,6 +50,7 @@
   
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
+| 💀 **[Red-Team-Agents-v2](https://github.com/pablodelazari/Red-Team-Agents-v2.0-Audited-)** | **Flagship:** Autonomous AI Framework mimicking APT behaviors (Planner -> Auditor -> Coder). Using DeepSeek-R1 & RAG. | `Python` `DeepSeek` `RAG` |
 | 🛡️ **[cybersecurity_tool](https://github.com/pablodelazari/cybersecurity_tool)** | Ferramenta simples e eficaz para análise básica de vulnerabilidades em segurança cibernética. Interface gráfica amigável e logs em tempo real. | `Python` `Tkinter` `Nmap` |
 | 🤖 **[automatizeja](https://github.com/pablodelazari/automatizeja)** | Plataforma de automação de processos para otimização de workflow. | `HTML` `CSS` `JS` |
 | 🐍 **[Python-Malware-Analysis](https://github.com/pablodelazari?tab=repositories)** | Scripts para análise estática e dinâmica de binários suspeitos. | `Python` `PEFile` |
